@@ -43,4 +43,4 @@ P.pertemuan 11/
 
 
 ## Author
-Rifky
+M. Rifky Ikhsan Pratama
